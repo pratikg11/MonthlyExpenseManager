@@ -1,0 +1,22 @@
+What is the app?
+• The app is used to store each expense of each month.It will calculate the total expense as well as show every expense of that particular month.
+
+
+How to add new Month?
+• In order to add new month, click the add button on the bottom right of your screen
+• Enter the month and the year and save
+• Your month will be displayed on the 1st page of the application
+
+
+How to add new Expense for a Particular month?
+• Click the Month for which you want to add the expense.
+• On click, you will be Redirected to 2nd page where you can see your expenses of that particular month
+• In order to add new Expense, click the add button on the bottom right of your screen
+• On click, you will be Redirected to 3rd page where you can add the Description of the Expense and its cost
+• Click the back button, which saves your expense and it will be displayed on 2nd page below your month
+
+
+How to Edit Existing Expense for a Particular month?
+• Click on the Expense which u want to edit
+• On click, you will be redirected to 3rd page where u can see the Description and cost of that expense
+• Make changes and click the back button, which will save your expense
